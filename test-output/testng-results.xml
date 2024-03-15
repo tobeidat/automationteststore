@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-15T04:19:15 EET" name="Default suite" finished-at="2024-03-15T04:19:37 EET" duration-ms="22494">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T04:19:15 EET" name="Default test" finished-at="2024-03-15T04:19:37 EET" duration-ms="22494">
+      <class name="automationteststore.myTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automationteststore.myTestCases@6b00f608]" started-at="2024-03-15T04:19:15 EET" name="setup" finished-at="2024-03-15T04:19:17 EET" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:1, instance:automationteststore.myTestCases@6b00f608]" started-at="2024-03-15T04:19:17 EET" name="signup" finished-at="2024-03-15T04:19:28 EET" duration-ms="11604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="login()[pri:2, instance:automationteststore.myTestCases@6b00f608]" started-at="2024-03-15T04:19:28 EET" name="login" finished-at="2024-03-15T04:19:31 EET" duration-ms="2217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="contactNumberTest()[pri:3, instance:automationteststore.myTestCases@6b00f608]" started-at="2024-03-15T04:19:31 EET" name="contactNumberTest" finished-at="2024-03-15T04:19:32 EET" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactNumberTest -->
+        <test-method signature="addAllItemsToCart()[pri:4, instance:automationteststore.myTestCases@6b00f608]" started-at="2024-03-15T04:19:32 EET" name="addAllItemsToCart" finished-at="2024-03-15T04:19:37 EET" duration-ms="5496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAllItemsToCart -->
+        <test-method is-config="true" signature="postTest()[pri:0, instance:automationteststore.myTestCases@6b00f608]" started-at="2024-03-15T04:19:37 EET" name="postTest" finished-at="2024-03-15T04:19:37 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- automationteststore.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
